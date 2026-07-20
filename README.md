@@ -1,8 +1,11 @@
 # 🎓 Student Stress Level Predictor
 
 This is a **Streamlit web application** that predicts the stress level of students based on their lifestyle details. The application uses a pre-trained machine learning model (`student_stress_model.pkl`) and a scaler (`scaler.pkl`) to preprocess the input data and make predictions.
-[Streamlit][https://studentstresslevelprediction-es8zgtjxhweuqqfaxzrkid.streamlit.app/]
+
+
 ---
+
+[Streamlit](https://studentstresslevelprediction-es8zgtjxhweuqqfaxzrkid.streamlit.app/)
 
 ## Features
 
